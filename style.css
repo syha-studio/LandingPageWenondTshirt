@@ -1,0 +1,22 @@
+@font-face {
+  font-family: "Poppin";
+  src: url(Font/Poppins-Regular.ttf);
+}
+@font-face {
+  font-family: "Poppin-Bold";
+  src: url(Font/Poppins-Bold.ttf);
+}
+div {
+  justify-content: center;
+  margin: auto;
+  font-family: "Poppin";
+}
+
+nav div a {
+  font-family: "Poppin-Bold";
+  font-size: 60px;
+}
+.Proto {
+  font-family: "Poppin-Bold";
+  font-size: 60px;
+}
